@@ -1,3 +1,11 @@
+Este projeto foi feito para aprimorar meus aprendizados em React js e Api rest!!
+
+VEJA COMO O BUSCADOR DE CEP FUNCIONA!! 
+<img src="https://user-images.githubusercontent.com/97037189/173089962-161968bf-2f63-42f3-bbfa-d99e99b19e82.gif" width="700px" />
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
